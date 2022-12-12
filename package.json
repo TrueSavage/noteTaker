@@ -4,7 +4,7 @@
   "description": "note application",
   "main": "server.js",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "inquirer": "^7.0.4",
     "nodemon": "^2.0.2"
   },
